@@ -1,0 +1,7 @@
+{
+  "vocab_size": 7466,
+  "embedding_dim": 128,
+  "hidden_dim": 64,
+  "dropout": 0.4,
+  "token_pattern": "[A-Za-z]+(?:'[A-Za-z]+)?"
+}

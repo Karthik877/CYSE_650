@@ -1,0 +1,14 @@
+{
+  "public_test_accuracy": 0.6675,
+  "public_test_confusion_matrix": [
+    [
+      119,
+      81
+    ],
+    [
+      52,
+      148
+    ]
+  ],
+  "epochs_completed": 12
+}
